@@ -1,3 +1,4 @@
+// INDEX.JS ARQUIVO QUE INICIALIZA A APLICAÇÃO
 const express = require("./app");
 const app = express()
 const port = 3000
